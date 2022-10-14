@@ -1,6 +1,6 @@
 # one-liners
 
-A collection of Python one-line codes for various experiments.
+A collection of Python one-line codes.
 
 # One Liners
 
